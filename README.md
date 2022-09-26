@@ -1,3 +1,5 @@
+![durga](https://user-images.githubusercontent.com/67827595/192328900-b0dbcab6-21e1-4fd9-b0fb-63a2009c3b2b.gif)
+
 # digital-art-the-deities-of-bengal
 Two original artworks using Python Turtle as a medium.
 
